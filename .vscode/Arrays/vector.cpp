@@ -7,7 +7,7 @@ int main (){
     cout<<"size : "<<v.size()<<endl;
     cout<<"capasity: "<<v.capacity()<<endl;
 
-    v.push_back(1);
+    v.push_back(1);  
     cout<<"size : "<<v.size()<<endl;
     cout<<"capasity: "<<v.capacity()<<endl;
 
